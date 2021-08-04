@@ -13,7 +13,7 @@ static const Block blocks[] = {
 	{" 🔊 ", "/opt/dwmblocks-distrotube-git/scripts/volume",			2,		            10},
 
     {"🔋","cat /sys/class/power_supply/BAT0/capacity",2,0},
-    {"BRI:","/opt/dwmblocks-distrotube-git/scripts/brightness",1,0},
+    {"🌞","/opt/dwmblocks-distrotube-git/scripts/brightness",1,0},
 
 
 	{" 🕑 ", "/opt/dwmblocks-distrotube-git/scripts/clock",			5,		            0},
