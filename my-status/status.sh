@@ -1,2 +1,2 @@
 #! /bin/bash
-xsetroot -name "$(uptime)";
+xsetroot -name "$(netspeed) | 🐧$(/opt/dwmblocks-distrotube-git/scripts/kernel) | 🔺$(/opt/dwmblocks-distrotube-git/scripts/upt) | 📦$(/opt/dwmblocks-distrotube-git/scripts/pacupdate) | 💻$(/opt/dwmblocks-distrotube-git/scripts/memory) | 🔊$(/opt/dwmblocks-distrotube-git/scripts/volume) | 🌞:$(xbacklight) |🔋:$( cat /sys/class/power_supply/BAT0/capacity) | 🕑: $(/opt/dwmblocks-distrotube-git/scripts/clock)";
